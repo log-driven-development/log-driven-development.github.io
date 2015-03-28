@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: Site Title
+title: Log Driven Development
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
+description: The only way to code.
+logo: logo.png
+search: false
 url: http://localhost:4000
 
 # Jekyll configuration
@@ -31,9 +31,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: 
+  avatar: 
+  email: 
   disqus-shortname:
   twitter: #username
   facebook: #username
