@@ -1,19 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+#- title: About
+#  url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Usage
+  url: /usage/
 
-- title: Blog
-  url: /blog/
+#- title: Examples
+#  url: /examples/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
-
-- title: Search
-  url: /search/
+- title: Contribute
+  url: https://github.com/log-driven-development/log-driven-development.github.io
