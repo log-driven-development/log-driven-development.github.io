@@ -1,4 +1,4 @@
 # Log Driven Development
 
-The only way to code.
+The only way to code
 
